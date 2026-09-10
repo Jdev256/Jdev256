@@ -9,7 +9,7 @@ export default function Navbar(){
     <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
       <!-- Logo / Nome -->
       <a href="#" class="font-bold tracking-wider text-sm uppercase hover:text-accent transition-colors">
-        ELIAS COSTA
+        Jonata Mendes
       </a>
 
       <!-- Links de Navegação -->
